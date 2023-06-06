@@ -34,6 +34,7 @@
 </div>
 
 ![Julien Lebron GitHub stats](https://github-readme-stats.vercel.app/api?username=julienlebron&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=julienlebron&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
 <div align="left">
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=julienlebron&show_icons=true&locale=en" alt="julienlebron" /></p>
