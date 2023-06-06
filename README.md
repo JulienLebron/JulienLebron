@@ -2,8 +2,6 @@
 <br>
 <h1 align="left">Hi 👋, I'm Julien Lebron</h1>
 <h3 align="left">A passionate Full Stack Developer from Belgium</h3>
-<br>
-<br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=julienlebron&label=Profile%20views&color=0e75b6&style=flat" alt="julienlebron" /> </p>
 
