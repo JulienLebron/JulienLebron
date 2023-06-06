@@ -30,9 +30,9 @@
 <br>
 
 ![Julien Lebron GitHub stats](https://github-readme-stats.vercel.app/api?username=julienlebron&show_icons=true&theme=radical) <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=julienlebron&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=julienlebron&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats) <br>
 
 
 <div align="left">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=julienlebron&" alt="julienlebron" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=julienlebron&theme=radical" alt="julienlebron" /></p>
 </div>
