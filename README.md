@@ -9,11 +9,11 @@
 
 - 🔭 I’m currently working on **students training**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Java**
 
 - 💬 Ask me about **HTML/CSS/JS/BOOTSTRAP/SQL/PHP/SYMFONY**
 
-- 📫 How to reach me **https://www.linkedin.com/in/julien-lebron-24b154162/**
+- 📫 How to reach me **https://julien-lebron.com/**
 
 <br>
 <br>
