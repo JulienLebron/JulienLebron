@@ -33,6 +33,18 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=julienlebron&show_icons=true&locale=en&layout=compact" alt="julienlebron" /></p>
 </div>
 
+<picture>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=julienlebrona&show_icons=true&theme=dark"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=julienlebron&show_icons=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=julienlebron&show_icons=true" />
+</picture>
+
 ![Julien Lebron GitHub stats](https://github-readme-stats.vercel.app/api?username=julienlebron&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=julienlebron&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
