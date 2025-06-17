@@ -1,16 +1,42 @@
-# 💫 About Me:
-I am a highly motivated FullStack Developer with 4 years of experience specializing in API development, security, and web design. My core expertise lies in React, and I excel in technologies such as Entity Framework Core, Identity, and SQL. I also bring hands-on experience with React, Bootstrap, Tailwind CSS, and modern UI frameworks.<br><br>🌱 Currently learning: React to elevate user experiences in web development.<br>🔭 Current project: Developing my personal portfolio website to showcase my expertise in both Back-End and Front-End design.<br>👯 Looking to collaborate on: Innovative web projects that demand seamless API integration, robust security, and exceptional UI/UX.<br>⚡ Fun fact: I balance my passion for technology with fitness, maintaining discipline in both code and the gym.
+## Hello World 👋
+
+🌟 I'm Julien, a passionate self-taught Fullstack JS developer from France.
+
+🚀 Currently, I'm working on various client projects and as a JS Fullstack Developer at inProgress.
+
+👨‍🏫 I'm also a web development instructor.
+
+🌱 In my spare time, I explore web 3.0 technologies and learn Solidity.
+
+🤖 I have a keen interest in Artificial Intelligence.
+
+🧑‍🏫 I enjoy mentoring junior developers, helping them grow and sharpen their skills.
+
+---
+
+### I'm comfortable with:
+
+---
+
+### I'm comfortable with:
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=fff)
+![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=fff)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=000)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=fff)
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB)
+![Symfony](https://img.shields.io/badge/Symfony-000000?logo=symfony&logoColor=fff)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=fff)
 
 
-## 🌐 Socials:
-[![Portfolio](https://img.shields.io/badge/My_Portfolio_Website-8A2BE2?style=flat&logo=counterstrike&logoColor=white&logoSize=auto)](https://julienlebron.com/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/julienlebrongarcia/) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julienlebron) 
-# 💻 Tech Stack:
- ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)  ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-<!---
-📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Ali-Sanati&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Ali-Sanati&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-Sanati&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
--->
+---
+
+### 📫 Find me here:
+
+🔗 [LinkedIn](https://www.linkedin.com/in/julienlebron/)  
+🌐 [Portfolio](https://julienlebron.com)
