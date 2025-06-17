@@ -7,8 +7,6 @@
 🤖 I have a keen interest in Artificial Intelligence.  
 🧑‍🏫 I enjoy mentoring junior developers, helping them grow and sharpen their skills.  
 
----
-
 ### I'm comfortable with:
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff)
@@ -23,9 +21,6 @@
 ![React Native](https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB)
 ![Symfony](https://img.shields.io/badge/Symfony-000000?logo=symfony&logoColor=fff)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=fff)
-
-
----
 
 ### 📫 Find me here:
 
