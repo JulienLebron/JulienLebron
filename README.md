@@ -1,20 +1,11 @@
 ## Hello World 👋
 
 🌟 I'm Julien, a passionate self-taught Fullstack JS developer from France.
-
 🚀 Currently, I'm working on various client projects and as a JS Fullstack Developer at inProgress.
-
 👨‍🏫 I'm also a web development instructor.
-
 🌱 In my spare time, I explore web 3.0 technologies and learn Solidity.
-
 🤖 I have a keen interest in Artificial Intelligence.
-
 🧑‍🏫 I enjoy mentoring junior developers, helping them grow and sharpen their skills.
-
----
-
-### I'm comfortable with:
 
 ---
 
